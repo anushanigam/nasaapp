@@ -1,8 +1,9 @@
-# nasaapp
+# Shop to help
 
 
 
-Shop to help
+
+Shopagezy
 
 For every poor person, clothing is shelter. But most of them cannot afford even one meal properly then how can they think of quality clothes. In this pandemic year clothing problems are faced by many poor people around the world and the social distancing is making it difficult for people to go and donate clothes to help them.
 
